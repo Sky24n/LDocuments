@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>用户协议</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html{
+            font-size: 17px;
+        }
+        @media  only screen and (min-width: 320px) {
+            html{
+                font-size: 17.07px !important
+            }
+        }
+        @media  only screen and (min-width: 375px){
+            html{
+                font-size: 20px !important
+            }
+        }
+        @media only screen and (min-width: 400px) {
+            html {
+                font-size: 21.33px !important
+            }
+        }
+
+        @media only screen and (min-width: 414px) {
+            html {
+                font-size: 22.08px !important
+            }
+        }
+
+        @media only screen and (min-width: 480px) {
+            html {
+                font-size: 25.6px !important
+            }
+        }
+
+        html {
+            font-family: 微软雅黑;
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%
+        }
+        body {
+            margin: 0;
+            color:#a98657;
+        }
+        .content {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            overflow: auto;
+            -webkit-overflow-scrolling: touch
+        }
+        .Top_up_agreement{
+            background-color: #f0f0f0;
+        }
+
+        p{
+            color:#333;
+            width: 88%;
+            margin: .5rem 6% ;
+            font-size: 14px;
+            line-height: 1.2rem;
+        }
+        .top{
+            text-align: center;
+            margin-top:1rem;
+            font-weight: bolder;
+            font-size: 17px;
+        }
+        .space{
+            text-indent: 1rem;
+        }
+        .title{
+            font-size: .7rem;
+            font-weight: bolder;
+        }
+        .title2{
+            font-size: 15px;
+            font-weight: bolder;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="content Top_up_agreement">
+    <p class="top">用户协议</p>
+    <p>1、使用规则</p>
+    <p>使用规则。。。</p>
+</div>
+</body>
+</html>
