@@ -11,7 +11,7 @@
   },
   {
     "title": "Flutter 常用工具类库",
-    "content": "包含屏幕适配工具类ScreenUtil；单例"同步" SharedPreferences 工具类 SpUtil；WidgetUtil 获取Widget宽高，在屏幕上的坐标。",
+    "content": "包含屏幕适配工具类ScreenUtil；单例 同步 SharedPreferences 工具类 SpUtil；WidgetUtil 获取Widget宽高，在屏幕上的坐标。",
     "url": "https://github.com/Sky24n/flustars/blob/master/README.md",
     "extra": "",
     "imgUrl": "",
