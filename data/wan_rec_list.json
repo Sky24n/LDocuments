@@ -1,8 +1,56 @@
 [
+   {
+    "title": "v0.2.2版本说明",
+    "content": "1.基础库升级。2.修复OPPO R15详情页问题。3.一些优化~。",
+    "url": "https://github.com/Sky24n/flutter_wanandroid/blob/master/CHANGELOG.md",
+    "extra": "",
+    "imgUrl": "",
+    "extraUrl": "1,https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppStore/flutter_wanandroid_new.apk",
+    "version": "", 
+    "createdAt": "2019-07-02 15:19:42",
+    "updatedAt": "2019-07-02 15:19:42",
+    "author": "Sky24n"
+  },
+  {
+    "title": "auto_size",
+    "content": "Flutter 屏幕适配 AutoSize，全局适配方式。欢迎大家测试使用，有任何问题请及时反馈。",
+    "url": "https://github.com/flutterchina/auto_size",
+    "extra": "",
+    "imgUrl": "",
+    "extraUrl": "",
+    "version": "", 
+    "createdAt": "2019-06-03 16:21:26",
+    "updatedAt": "2019-06-03 16:21:26",
+    "author": "Sky24n"
+  },
+  {
+    "title": "Flutter 仿滴滴出行",
+    "content": "绿色出行～ 仿滴滴主界面，地图中心请求动效果，服务tabs展开效果，地址检索界面，城市列表界面。",
+    "url": "https://juejin.im/post/5c6cc95e518825266c3f095a",
+    "extra": "",
+    "imgUrl": "",
+    "extraUrl": "0,https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppStore/green_travel_a.apk",
+    "version": "", 
+    "createdAt": "2019-02-26 15:30:00",
+    "updatedAt": "2019-02-26 15:30:00",
+    "author": "Sky24n"
+  },
+   {
+    "title": "Flutter 常用工具类库",
+    "content": "包含屏幕适配工具类ScreenUtil；单例 同步 SharedPreferences 工具类 SpUtil；WidgetUtil 获取Widget宽高，在屏幕上的坐标，获取图片尺寸。",
+    "url": "https://github.com/Sky24n/flustars",
+    "extra": "",
+    "imgUrl": "",
+    "extraUrl": "",
+    "version": "",
+    "createdAt": "2019-01-08 15:26:00",
+    "updatedAt": "2019-01-08 15:26:00",
+    "author": "Sky24n"
+  },
   {
     "title": "Dart 常用工具类库",
     "content": "包含日期，正则，时间轴，定时任务，倒计时，精确加减乘除，Log等工具类。",
-    "url": "https://github.com/Sky24n/common_utils/blob/master/README.md",
+    "url": "https://github.com/Sky24n/common_utils",
     "extra": "",
     "imgUrl": "",
     "extraUrl": "",
@@ -11,17 +59,41 @@
     "updatedAt": "2019-01-08 15:19:42",
     "author": "Sky24n"
   },
-  {
-    "title": "Flutter 常用工具类库",
-    "content": "包含屏幕适配工具类ScreenUtil；单例 同步 SharedPreferences 工具类 SpUtil；WidgetUtil 获取Widget宽高，在屏幕上的坐标。",
-    "url": "https://github.com/Sky24n/flustars/blob/master/README.md",
+   {
+    "title": "AzListView",
+    "content": "Flutter 城市列表，联系人列表，索引&悬停。",
+    "url": "https://github.com/flutterchina/azlistview",
     "extra": "",
     "imgUrl": "",
     "extraUrl": "",
-    "version": "",
-    "createdAt": "2019-01-08 15:26:00",
-    "updatedAt": "2019-01-08 15:26:00",
-    "author": "Sky24n"
-  }
+    "version": "", 
+    "createdAt": "2019-01-06 15:29:29",
+    "updatedAt": "2019-01-06 15:29:29",
+    "author": "flutterchina"
+  },
+  {
+    "title": "flukit",
+    "content": "Flutter UI组件库",
+    "url": "https://github.com/flutterchina/flukit",
+    "extra": "",
+    "imgUrl": "",
+    "extraUrl": "",
+    "version": "", 
+    "createdAt": "2019-01-06 15:29:29",
+    "updatedAt": "2019-01-06 15:29:29",
+    "author": "flutterchina"
+  },
+    {
+    "title": "lpinyin",
+    "content": "Dart 汉字转拼音库,支持准确、完善的字库，拼音转换速度快，支持多种拼音输出格式，支持常见多音字的识别，支持简繁体中文转换。",
+    "url": "https://github.com/flutterchina/lpinyin",
+    "extra": "",
+    "imgUrl": "",
+    "extraUrl": "",
+    "version": "", 
+    "createdAt": "2019-01-06 15:29:29",
+    "updatedAt": "2019-01-06 15:29:29",
+    "author": "flutterchina"
+  },
 ]
 
