@@ -1,17 +1,29 @@
 [
    {
-    "title": "v0.2.2版本说明",
-    "content": "1.基础库升级。2.修复OPPO R15详情页问题。3.一些优化~。",
+    "title": "请尽快升级至v0.2.3版本",
+    "content": "由于旧版本部分api使用了免费云，云服务将于7月底逐步关闭，可能导致无法使用，请尽快升级到最新版本！",
     "url": "https://github.com/Sky24n/flutter_wanandroid/blob/master/CHANGELOG.md",
     "extra": "",
     "imgUrl": "",
     "extraUrl": "1,https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppStore/flutter_wanandroid_new.apk",
     "version": "", 
-    "createdAt": "2019-07-02 15:19:42",
-    "updatedAt": "2019-07-02 15:19:42",
+    "createdAt": "2019-07-15 15:19:42",
+    "updatedAt": "2019-07-15 15:19:42",
     "author": "Sky24n"
   },
   {
+    "title": "全网最全Flutter常用工具类",
+    "content": "包含SpUtil，ScrenUtil，DirectoryUtil，WidgetUtil，日期，正则，时间轴，定时任务，倒计时，精确运算加减乘除，Log等工具类。",
+    "url": "https://juejin.im/post/5d0f4c54f265da1bb31c426c",
+    "extra": "",
+    "imgUrl": "",
+    "extraUrl": "",
+    "version": "", 
+    "createdAt": "2019-07-10 16:21:26",
+    "updatedAt": "2019-07-10 16:21:26",
+    "author": "Sky24n"
+  },
+   {
     "title": "auto_size",
     "content": "Flutter 屏幕适配 AutoSize，全局适配方式。欢迎大家测试使用，有任何问题请及时反馈。",
     "url": "https://github.com/flutterchina/auto_size",
