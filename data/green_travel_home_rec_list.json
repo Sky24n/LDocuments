@@ -1,13 +1,13 @@
 [
   {
-    "title": "Flutter圈子",
-    "content": "",
-    "url": "https://www.jianshu.com/c/ebc9d2e84214"
-  },
-  {
     "title": "Flutter中文网",
     "content": "",
     "url": "https://flutterchina.club"
+  },
+  {
+    "title": "Flutter圈子",
+    "content": "",
+    "url": "https://www.jianshu.com/c/ebc9d2e84214"
   },
   {
     "title": "Flutter中文社区",
@@ -23,10 +23,5 @@
     "title": "闲鱼技术",
     "content": "",
     "url": "https://www.jianshu.com/u/cf5c0e4b1111"
-  },
-  {
-    "title": "Sky24n",
-    "content": "",
-    "url": "https://github.com/Sky24n"
   }
 ]
